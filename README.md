@@ -2,6 +2,12 @@
 
 这是一个使用 Manim 制作的 Orpheus TTS (Text-to-Speech) 架构动画教程视频项目。
 
+## 🎬 最终视频
+
+[**▶️ 观看完整教程视频 (OrpheusTTS_Final.mp4)**](output/OrpheusTTS_Final.mp4)
+
+> 1080p60 | 时长 4:44 | 中文配音
+
 ## 项目概述
 
 本项目包含 7 个动画场景，详细解释了 Orpheus TTS 的工作原理：
